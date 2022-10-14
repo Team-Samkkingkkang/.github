@@ -1,7 +1,7 @@
 # [ 🤖 동의대학교 산업ICT기술공학과 Team-Samkkingkkang 🤖 ] 
 </br>
 
-* 화해 APP Clone Coding 
+* 화해 APP Clone Coding (Web)
 * POPO Website 
 * POPO APP 
 
